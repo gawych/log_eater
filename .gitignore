@@ -9,3 +9,7 @@
 
 # Ignore WiFi
 src/wifi_secrets.h
+
+.env
+__pycache__/
+.venv/
