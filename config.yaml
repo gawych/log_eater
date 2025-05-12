@@ -1,0 +1,3 @@
+loki:
+  url: "http://n100.local:3100"  # N100
+
