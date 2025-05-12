@@ -1,5 +1,5 @@
-requests>=2.31,<3
-pyyaml
-python-dotenv
 openai>=1.14,<2
+python-dotenv
+requests
 pandas
+pyyaml
