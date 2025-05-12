@@ -1,6 +1,5 @@
-requests
-pandas
+requests>=2.31,<3
 pyyaml
-openai
 python-dotenv
 openai>=1.14,<2
+pandas
