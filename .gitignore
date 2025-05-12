@@ -4,6 +4,8 @@
 .vscode/launch.json
 .vscode/ipch
 .venv
+.idea   
+.vscode
 
 # Ignore WiFi
 src/wifi_secrets.h
