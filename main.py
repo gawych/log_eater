@@ -14,6 +14,8 @@ if __name__ == "__main__":
         print("No log lines found.")
         exit()
 
+    print(f"Collected {len(lines)} lines")
+
     prompt = build_prompt(lines)
     answer = ask_llm(prompt)
     print("\n=== LLM SUGGESTION ===\n", answer)
